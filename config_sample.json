@@ -1,0 +1,12 @@
+{
+    "source_group_id": "",
+    "destination_channel_id": "",
+    "bot_token": "",
+    "admin_id": "",
+    "webhook_url": "",
+    "forward_all": true,
+    "forward_text": true,
+    "forward_media": true,
+    "forward_documents": true,
+    "last_updated": ""
+}
