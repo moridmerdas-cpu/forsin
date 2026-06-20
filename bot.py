@@ -12,7 +12,7 @@ import sqlite3
 
 # ======== تنظیمات ========
 TOKEN = "8574884910:AAFFID6HrOcElqnJTBHZLQ3W_56gFQ_IKaA"
-WEBHOOK_URL = "https://cod-end.onrender.com"  # آدرس رندر خودت
+WEBHOOK_URL = "https://forsin.onrender.com"  # آدرس رندر خودت
 ADMINS = [601668306, 8588773170]
 
 # ======== دیتابیس ========
